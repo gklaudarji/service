@@ -3,3 +3,6 @@ body{
   border-style:ridge 5px;
   border-color:#000099 ;
 }
+form{
+  border:solid;
+}
