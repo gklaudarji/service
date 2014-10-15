@@ -1,0 +1,26 @@
+
+
+.logo { height: 250px;
+  left: 0;
+  margin: auto;
+  padding-top: 55px;
+  right: 0;
+  text-align: center;
+  width: 601px
+}
+.navbar{
+border-bottom: 1px solid #CACACA;
+border-top: 1px solid #CACACA;
+height: 40px;
+}
+.col-md-4 {text-align:center}
+
+h4, h5 {text-align: center;
+  font-weight: bold; Font-variant: normal;
+  Font-family: "century", Century, serif;
+  text-decoration: underline
+}
+.jumbotron{background: transparent;
+border:solid;
+  text-align:center;
+}
