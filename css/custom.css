@@ -7,3 +7,7 @@ form{
   border:solid;
   padding:5px;
 }
+section{
+  border:soild 5px;
+  background-color:aqua;
+}
